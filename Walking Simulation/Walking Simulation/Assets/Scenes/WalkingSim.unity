@@ -812,7 +812,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c55d2b92efa1149feaf87696d6ccee2c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  axes: 2
+  axes: 0
   sensitivityHor: 9
   sensitivityVert: 9
   minimumVert: -45
