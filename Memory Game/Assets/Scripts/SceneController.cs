@@ -93,10 +93,10 @@ public class SceneController : MonoBehaviour
 
         if (firstRevealed.Id == secondRevealed.Id)
         {
-            score++;
+            score = score + 100;
             scoreLabel.text = $"Score: {score}";
             turns++;
-            //turnLabel.text = $"Turns: {turns}";
+            turnLabel.text = $"Turns: {turns}";
         }
 
         else

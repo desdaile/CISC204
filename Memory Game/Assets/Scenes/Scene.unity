@@ -771,7 +771,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: af6879bc40ee24999b29009970f4cdb5, type: 3}
   - {fileID: 21300000, guid: ef5d4016fc9ce4a22a9a997c2b85b92b, type: 3}
   scoreLabel: {fileID: 286107966}
-  turnLabel: {fileID: 0}
+  turnLabel: {fileID: 1377272981}
 --- !u!1 &1377272980
 GameObject:
   m_ObjectHideFlags: 0
@@ -784,7 +784,7 @@ GameObject:
   - component: {fileID: 1377272982}
   - component: {fileID: 1377272981}
   m_Layer: 0
-  m_Name: Turns (TMP)
+  m_Name: Text (TMP)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
